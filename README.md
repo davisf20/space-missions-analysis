@@ -21,7 +21,7 @@ The following libraries are used:
 * `README.md`: This file.
 * `requirements.txt`: The requirements file for reproducing the analysis environment.
 * `Space_Missions_Analysis.ipynb`: The Jupyter notebook containing the analysis.
-* `Space_Missions_Analysis.html`: The HTML version of the Jupyter notebook.
+* `index.html`: The HTML version of the Jupyter notebook.
 * `Space Missions - Presentation.pdf`: The presentation of the project.
 * `Space_Corrected.csv`: The corrected dataset.
 
